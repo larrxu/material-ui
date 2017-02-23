@@ -28,6 +28,13 @@ const appList = [
   //   link: '',
   // },
   {
+    title: 'SlimChess - Play Instant Chess on mobile devices',
+    author: 'Le Xu',
+    img: 'images/showcase/splitme.png',
+    link: 'https://splitme.net/',
+    source: 'https://github.com/oliviertassinari/SplitMe',
+  },
+  {
     title: 'SplitMe - Split expenses with friends',
     author: 'Olivier Tassinari',
     img: 'images/showcase/splitme.png',
